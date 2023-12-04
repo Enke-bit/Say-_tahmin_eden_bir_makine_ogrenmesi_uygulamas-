@@ -1,4 +1,4 @@
-# Say-_tahmin_eden_bir_makine_ogrenmesi_uygulamas-
+# Sayi_tahmin_eden_bir_makine_ogrenmesi_uygulamasi
 
 # Kullanıcıdan 10 adet sayı al:
 
